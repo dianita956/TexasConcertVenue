@@ -1,0 +1,414 @@
+[
+    {
+        "name": "AT&T Center",
+        "address": "1 AT&T Center, San Antonio, TX 78219"
+    },
+    {
+        "name": "Alamodome",
+        "address": "100 Montana Street, San Antonio, TX 78205"
+    },
+    {
+        "name": "Arjon's",
+        "address": "8736 Tesoro Drive, San Antonio, TX 78217"
+    },
+    {
+        "name": "Arneson River Theatre",
+        "address": "418 Villita Street, San Antonio, TX 78205"
+    },
+    {
+        "name": "Aztec Theatre | San Antonio",
+        "address": "104 North Saint Mary's Street, San Antonio, TX 78205"
+    },
+    {
+        "name": "Azuca Cocina Latina Nuevo",
+        "address": "713 South Alamo, San Antonio, TX 78205-3403"
+    },
+    {
+        "name": "The Bang Bang Bar",
+        "address": "119 El Mio Street, San Antonio, TX 78216"
+    },
+    {
+        "name": "Bar Rojo at The Grand Hyatt Hotel",
+        "address": "600 East Market Street, San Antonio, TX 78205"
+    },
+    {
+        "name": "Beethoven Maennerchor Halle und Garten",
+        "address": "422 Pereida Street, San Antonio, TX 78210-1149"
+    },
+    {
+        "name": "Betty's Battalion",
+        "address": "1524 East Grayson Street, San Antonio, TX 78208"
+    },
+    {
+        "name": "Blue Star Brewing Co.",
+        "address": "1414 South Alamo Street, San Antonio, TX 78210-1118"
+    },
+    {
+        "name": "Bohanan's Bar",
+        "address": "219 E Houston Street, San Antonio, TX 78205"
+    },
+    {
+        "name": "Boiler House Texas Grill & Wine Garden",
+        "address": "312 Pearl Parkway, Building 3, San Antonio, TX 78215-1262"
+    },
+    {
+        "name": "Bond's 007 Rock Bar",
+        "address": "450 Soledad, San Antonio, TX 78205-1526"
+    },
+    {
+        "name": "Bonham Exchange",
+        "address": "411 Bonham, San Antonio, TX 78205"
+    },
+    {
+        "name": "Boozehounds",
+        "address": "8531 Perrin-Beitel, San Antonio, TX 78217"
+    },
+    {
+        "name": "Bottom Bracket Social Club",
+        "address": "1603 North Colorado, San Antonio, TX 78201"
+    },
+    {
+        "name": "Brauntex Performing Arts Theatre",
+        "address": "290 West San Antonio Street, New Braunfels, TX 78130"
+    },
+    {
+        "name": "Candlelight Coffeehouse, Wine Bar & Caf\u00e9",
+        "address": "3011 North St. Mary's, San Antonio, TX 78212-3534"
+    },
+    {
+        "name": "Carmen's de la Calle Cafe",
+        "address": "320 North Flores, San Antonio, TX 78205"
+    },
+    {
+        "name": "Carver Community Cultural Center | Jo Long Theatre",
+        "address": "215 North Hackberry, San Antonio, TX 78202-2853"
+    },
+    {
+        "name": "Charline McCombs Empire Theatre",
+        "address": "208 East Houston Street, San Antonio, TX 78205"
+    },
+    {
+        "name": "Lila Cockrell Theatre",
+        "address": "200 East Market, San Antonio, TX 78205"
+    },
+    {
+        "name": "County Line Bar-B-Q | San Antonio",
+        "address": "10101 West Interstate Highway 10, San Antonio, TX 78230"
+    },
+    {
+        "name": "The Cove",
+        "address": "606 West Cypress, San Antonio, TX 78212-5001"
+    },
+    {
+        "name": "Cowboys Dance Hall  | San Antonio",
+        "address": "3030 Northeast Loop 410, San Antonio, TX 78218"
+    },
+    {
+        "name": "Durty Nelly's",
+        "address": "200 South Alamo Street, San Antonio, TX 78205"
+    },
+    {
+        "name": "Fitzgerald's Bar and Live Music",
+        "address": "437 McCarty Road, San Antonio, TX 78216"
+    },
+    {
+        "name": "502 Bar",
+        "address": "502 Embassy Oaks, San Antonio, TX 78216"
+    },
+    {
+        "name": "The Flying Saucer Draught Emporium | San Antonio",
+        "address": "11255 Huebner Road, San Antonio, TX 78230"
+    },
+    {
+        "name": "Fralo\u2019s Art of Pizza",
+        "address": "23651 IH 10 West, San Antonio, TX 78257"
+    },
+    {
+        "name": "Freeman Coliseum",
+        "address": "3201 East Houston Street, Suite A, San Antonio, TX 78219"
+    },
+    {
+        "name": "Henry B. Gonzalez Convention Center",
+        "address": "P.O. Box 1809, San Antonio, TX 78296"
+    },
+    {
+        "name": "Graham Central Station | San Antonio",
+        "address": "4902 Fredericksburg Road, San Antonio, TX 78229"
+    },
+    {
+        "name": "Guadalupe Cultural Arts Center",
+        "address": "723 South Brazos Street, No. 1, San Antonio, TX 78207-5579"
+    },
+    {
+        "name": "Hard Rock Cafe | San Antonio",
+        "address": "111 West Crockett Street, Suite 210, San Antonio, TX 78205-2503"
+    },
+    {
+        "name": "Hotel Havana",
+        "address": "1015 Navarro Street, San Antonio, TX 78205"
+    },
+    {
+        "name": "International Folk Culture Center",
+        "address": "411 Southwest 24th Street, San Antonio, TX 78207-4689"
+    },
+    {
+        "name": "The Irish Pub",
+        "address": "9726 Data Point Drive, San Antonio, TX 78229"
+    },
+    {
+        "name": "Joe Blues",
+        "address": "1420 South Alamo Street, Suite D-142, San Antonio, TX 78210"
+    },
+    {
+        "name": "Josephine Theatre",
+        "address": "339 West Josephine Street, San Antonio, TX 78212"
+    },
+    {
+        "name": "La Gloria",
+        "address": "100 East Grayson Street, San Antonio, TX 78215"
+    },
+    {
+        "name": "La Tuna",
+        "address": "100 Probandt, San Antonio, TX 78204-1740"
+    },
+    {
+        "name": "Limelight Music",
+        "address": "2718 North St. Mary's Street, San Antonio, TX 78212"
+    },
+    {
+        "name": "Little Red Barn Steakhouse",
+        "address": "1902 South Hackberry, San Antonio, TX 78210"
+    },
+    {
+        "name": "The Lonesome Rose",
+        "address": "2114 North St. Mary's Street, San Antonio, TX 78212"
+    },
+    {
+        "name": "The Lost Horse",
+        "address": "306 East San Antonio, Marfa, TX 79843"
+    },
+    {
+        "name": "LUNA",
+        "address": "6740 San Pedro Avenue, San Antonio, TX 78216-7217"
+    },
+    {
+        "name": "Maddogs British Pub",
+        "address": "123 Losoya Street, Suite 19, San Antonio, TX 78205"
+    },
+    {
+        "name": "Main Plaza Conservancy",
+        "address": "111 Soledad Street, Suite 825, San Antonio, TX 78205"
+    },
+    {
+        "name": "Majestic Theatre | San Antonio",
+        "address": "208 East Houston Street, San Antonio, TX 78205"
+    },
+    {
+        "name": "Make My Day",
+        "address": "12114 Nacogdoches Road, San Antonio, TX 78217-2335"
+    },
+    {
+        "name": "The Marc",
+        "address": "120 East San Antonio Street, San Marcos, TX 78666"
+    },
+    {
+        "name": "Martinez Social Club",
+        "address": "P.O. Box 201101, San Antonio, TX 78220"
+    },
+    {
+        "name": "The Martini Club",
+        "address": "8507 McCullough Avenue, Suite A-9, San Antonio, TX 78216"
+    },
+    {
+        "name": "The Mix",
+        "address": "2423 North Saint Mary's, San Antonio, TX 78212-3737"
+    },
+    {
+        "name": "Moses Rose's Hideout",
+        "address": "518 East Houston Street, San Antonio, TX 78205"
+    },
+    {
+        "name": "Musical Arts Center of San Antonio, Inc",
+        "address": "12732 Cimarron Path, No. 100, San Antonio, TX 78249"
+    },
+    {
+        "name": "Network for Young Artists, Inc.",
+        "address": "1800 Fredericksburg Road, No. 122, San Antonio, TX 78201-5089"
+    },
+    {
+        "name": "151 Saloon",
+        "address": "10619 Westover Hills Boulevard, San Antonio, TX 78254"
+    },
+    {
+        "name": "Paesano's 1604",
+        "address": "3622 Paesanos Parkway, San Antonio, TX 78231"
+    },
+    {
+        "name": "Papa Woody's Roadhouse",
+        "address": "8902 South Presa Street, San Antonio, TX 78223-4741"
+    },
+    {
+        "name": "Paper Tiger",
+        "address": "2410 North Saint Mary's Street, San Antonio, TX 78212"
+    },
+    {
+        "name": "Pearl Brewery",
+        "address": "303 Pearl Parkway, Suite 300, San Antonio, TX 78215-1285"
+    },
+    {
+        "name": "Pedrotti's North Wind Ranch",
+        "address": "13715 FM 1560 North, San Antonio, TX 78023"
+    },
+    {
+        "name": "Pericos Mexican Cuisine",
+        "address": "10820 Bandera Road, San Antonio, TX 78250"
+    },
+    {
+        "name": "Phoenix Saloon",
+        "address": "193 West San Antonio Street, New Braunfels, TX 78130"
+    },
+    {
+        "name": "Plaza Guadalupe",
+        "address": "1327 Guadalupe, San Antonio, TX 78207"
+    },
+    {
+        "name": "Pueblo Hall",
+        "address": "3315 Northwestern, San Antonio, TX 78238"
+    },
+    {
+        "name": "R&J Music Pavilion",
+        "address": "18086 Pleasanton Road, San Antonio, TX 78221"
+    },
+    {
+        "name": "Rebar",
+        "address": "8134 Broadway, San Antonio, TX 78209-1941"
+    },
+    {
+        "name": "The Reggae Bar",
+        "address": "2016 Austin Highway, San Antonio, TX 78218-2503"
+    },
+    {
+        "name": "Retox Bar",
+        "address": "1031 Patricia Drive, San Antonio, TX 78213"
+    },
+    {
+        "name": "Riff House Concerts",
+        "address": "San Antonio, TX 78232"
+    },
+    {
+        "name": "Rio Cibolo Ranch",
+        "address": "P.O. Box 5470, San Antonio, TX 78201"
+    },
+    {
+        "name": "Rosario's Mexican Cafe y Cantina",
+        "address": "910 South Alamo Street, San Antonio, TX 78205-3419"
+    },
+    {
+        "name": "The Rustic",
+        "address": "17619 La Cantera Parkway, Suite 204, San Antonio, TX"
+    },
+    {
+        "name": "SA Country Saloon",
+        "address": "1134 West Hildebrand, San Antonio, TX 78201"
+    },
+    {
+        "name": "Sam's Burger Joint",
+        "address": "330 East Grayson, San Antonio, TX 78215-1228"
+    },
+    {
+        "name": "San Antonio Botanical Garden",
+        "address": "555 Funston Place, San Antonio, TX 78209"
+    },
+    {
+        "name": "San Antonio College | Department of Theater and Speech Communication | McAllister Auditorium",
+        "address": "1300 San Pedro Avenue, San Antonio, TX 78212"
+    },
+    {
+        "name": "San Antonio Event Center",
+        "address": "8111 Meadow Leaf, San Antonio, TX 78227"
+    },
+    {
+        "name": "San Antonio Shrine Auditorium",
+        "address": "901 North Loop 1604 West, San Antonio, TX 78216"
+    },
+    {
+        "name": "Sea World of Texas",
+        "address": "10500 Sea World Drive, San Antonio, TX 78251"
+    },
+    {
+        "name": "Sherlock's Baker Street Pub | San Antonio",
+        "address": "16620 US-281 North, Suite 1, San Antonio, TX 78232"
+    },
+    {
+        "name": "Six Flags Fiesta Texas",
+        "address": "17000 West IH-10, San Antonio, TX 78257-9503"
+    },
+    {
+        "name": "Specht's Store",
+        "address": "112 West Specht Road, San Antonio, TX 78260"
+    },
+    {
+        "name": "Speedway Sports Bar",
+        "address": "8811 Grissom Road, San Antonio, TX 78251"
+    },
+    {
+        "name": "Splashtown",
+        "address": "3600 IH-35 North, San Antonio, TX 78219"
+    },
+    {
+        "name": "The Stetson Bar",
+        "address": "7350 Tezel Road, San Antonio, TX 78250"
+    },
+    {
+        "name": "Sunken Garden Theater",
+        "address": "P.O. Box 839966, San Antonio, TX 78283"
+    },
+    {
+        "name": "Sunset Station",
+        "address": "1174 East Commerce Street, San Antonio, TX 78205"
+    },
+    {
+        "name": "Tech Port Center + Arena",
+        "address": "3331 General Hudnell Drive, San Antonio, TX 78226"
+    },
+    {
+        "name": "Thirsty Horse Saloon",
+        "address": "2335 Northwest Military Highway, San Antonio, TX 78231"
+    },
+    {
+        "name": "Tobin Center for the Performing Arts",
+        "address": "100 Auditorium Circle, San Antonio, TX 78205"
+    },
+    {
+        "name": "Tonic Bar",
+        "address": "5500 Babcock Road, No. 117, San Antonio, TX 78240"
+    },
+    {
+        "name": "Trinity University | Laurie Auditorium",
+        "address": "One Trinity Place, San Antonio, TX 78212"
+    },
+    {
+        "name": "Tucker's Kozy Korner",
+        "address": "1338 East Houston Street, San Antonio, TX 78205-2035"
+    },
+    {
+        "name": "Tycoon Flats",
+        "address": "P.O. Box 6953, San Antonio, TX 78209-0953"
+    },
+    {
+        "name": "VFW Post 8541",
+        "address": "2222 Austin Highway, San Antonio, TX 78218-1836"
+    },
+    {
+        "name": "Wax Club Lounge",
+        "address": "2211 San Pedro, San Antonio, TX 78212-3231"
+    },
+    {
+        "name": "Web House Cafe and Bar",
+        "address": "2106 North Saint Mary's Street, San Antonio, TX 78212-4139"
+    },
+    {
+        "name": "Wetmore City Limits",
+        "address": "12329 Wetmore Road, San Antonio, TX 78247"
+    }
+]
